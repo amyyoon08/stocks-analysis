@@ -5,4 +5,4 @@ This project aims to refractor a pre-made macro using VBA to examine the entire 
 
 ## Results
 
-Compare stock performance giua 2017 va 2018 execution tiem
+
